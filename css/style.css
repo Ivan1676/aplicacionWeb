@@ -1,0 +1,15 @@
+body {
+    margin-top: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+    background: linear-gradient(100deg, rgb(65, 182, 250) 10%, black 90%, rgb(80, 191, 255) 10%, black 90%);
+    color: white;
+}
+
+img {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-right: 2em;
+    width: 30em;
+    height: 20em;
+}
